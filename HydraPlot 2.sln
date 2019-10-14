@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZedGraph", "dep\ZedGraph 5.1 (.net 2)\source\ZedGraph.csproj", "{2541686B-1673-43BF-AF89-3163945DB009}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HydraPlot 2", "HydraPlot 2.csproj", "{756EB9F1-E5D4-4FBC-B4E7-F4257D478DC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodersLab.Windows.Controls.TreeView", "dep\multi-select-TreeView\CodersLab.Windows.Controls.TreeView.csproj", "{A02C1D54-2F34-4B35-992D-F8B6A1664884}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2541686B-1673-43BF-AF89-3163945DB009}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2541686B-1673-43BF-AF89-3163945DB009}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2541686B-1673-43BF-AF89-3163945DB009}.Debug|x86.ActiveCfg = Debug|x86
+		{2541686B-1673-43BF-AF89-3163945DB009}.Debug|x86.Build.0 = Debug|x86
+		{2541686B-1673-43BF-AF89-3163945DB009}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2541686B-1673-43BF-AF89-3163945DB009}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2541686B-1673-43BF-AF89-3163945DB009}.Release|x86.ActiveCfg = Release|x86
+		{2541686B-1673-43BF-AF89-3163945DB009}.Release|x86.Build.0 = Release|x86
+		{756EB9F1-E5D4-4FBC-B4E7-F4257D478DC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{756EB9F1-E5D4-4FBC-B4E7-F4257D478DC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{756EB9F1-E5D4-4FBC-B4E7-F4257D478DC0}.Debug|x86.ActiveCfg = Debug|x86
+		{756EB9F1-E5D4-4FBC-B4E7-F4257D478DC0}.Debug|x86.Build.0 = Debug|x86
+		{756EB9F1-E5D4-4FBC-B4E7-F4257D478DC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{756EB9F1-E5D4-4FBC-B4E7-F4257D478DC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{756EB9F1-E5D4-4FBC-B4E7-F4257D478DC0}.Release|x86.ActiveCfg = Release|x86
+		{756EB9F1-E5D4-4FBC-B4E7-F4257D478DC0}.Release|x86.Build.0 = Release|x86
+		{A02C1D54-2F34-4B35-992D-F8B6A1664884}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A02C1D54-2F34-4B35-992D-F8B6A1664884}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A02C1D54-2F34-4B35-992D-F8B6A1664884}.Debug|x86.ActiveCfg = Debug|x86
+		{A02C1D54-2F34-4B35-992D-F8B6A1664884}.Debug|x86.Build.0 = Debug|x86
+		{A02C1D54-2F34-4B35-992D-F8B6A1664884}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A02C1D54-2F34-4B35-992D-F8B6A1664884}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A02C1D54-2F34-4B35-992D-F8B6A1664884}.Release|x86.ActiveCfg = Release|x86
+		{A02C1D54-2F34-4B35-992D-F8B6A1664884}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
