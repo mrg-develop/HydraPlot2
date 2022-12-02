@@ -1,0 +1,100 @@
+C:\Users\mrioseco\HydraPlot2\HydraPlot2\obj\x86\Debug\HydraPlot 2.csproj.AssemblyReference.cache
+C:\Users\mrioseco\HydraPlot2\HydraPlot2\obj\x86\Debug\HydraPlot2.About.resources
+C:\Users\mrioseco\HydraPlot2\HydraPlot2\obj\x86\Debug\HydraPlot2.DbSelector.resources
+C:\Users\mrioseco\HydraPlot2\HydraPlot2\obj\x86\Debug\HydraPlot2.Form1.resources
+C:\Users\mrioseco\HydraPlot2\HydraPlot2\obj\x86\Debug\HydraPlot2.Form2.resources
+C:\Users\mrioseco\HydraPlot2\HydraPlot2\obj\x86\Debug\HydraPlot2.GraphWorkspace.resources
+C:\Users\mrioseco\HydraPlot2\HydraPlot2\obj\x86\Debug\HydraPlot2.ImporterMonitor.resources
+C:\Users\mrioseco\HydraPlot2\HydraPlot2\obj\x86\Debug\HydraPlot2.ProfileEditor.resources
+C:\Users\mrioseco\HydraPlot2\HydraPlot2\obj\x86\Debug\HydraPlot2.Properties.Resources.resources
+C:\Users\mrioseco\HydraPlot2\HydraPlot2\obj\x86\Debug\HydraPlot2.SensorSelector.resources
+C:\Users\mrioseco\HydraPlot2\HydraPlot2\obj\x86\Debug\HydraPlot2.About.es.resources
+C:\Users\mrioseco\HydraPlot2\HydraPlot2\obj\x86\Debug\HydraPlot2.Form1.es.resources
+C:\Users\mrioseco\HydraPlot2\HydraPlot2\obj\x86\Debug\HydraPlot 2.csproj.GenerateResource.cache
+C:\Users\mrioseco\HydraPlot2\HydraPlot2\bin\x86\Debug\config\TextFile1.txt
+C:\Users\mrioseco\HydraPlot2\HydraPlot2\bin\x86\Debug\databases\DOT 199208.mdb
+C:\Users\mrioseco\HydraPlot2\HydraPlot2\bin\x86\Debug\databases\Stevens DOT Loggerhe.mdb
+C:\Users\mrioseco\HydraPlot2\HydraPlot2\bin\x86\Debug\databases\template.mdb
+C:\Users\mrioseco\HydraPlot2\HydraPlot2\bin\x86\Debug\databases\test.mdb
+C:\Users\mrioseco\HydraPlot2\HydraPlot2\bin\x86\Debug\CodersLab.Windows.Controls.TreeView.dll
+C:\Users\mrioseco\HydraPlot2\HydraPlot2\bin\x86\Debug\ZedGraph.dll
+C:\Users\mrioseco\HydraPlot2\HydraPlot2\bin\x86\Debug\CodersLab.Windows.Controls.TreeView.pdb
+C:\Users\mrioseco\HydraPlot2\HydraPlot2\bin\x86\Debug\CodersLab.Windows.Controls.TreeView.dll.config
+C:\Users\mrioseco\HydraPlot2\HydraPlot2\bin\x86\Debug\ZedGraph.pdb
+C:\Users\mrioseco\HydraPlot2\HydraPlot2\bin\x86\Debug\ZedGraph.dll.config
+C:\Users\mrioseco\HydraPlot2\HydraPlot2\bin\x86\Debug\de\ZedGraph.resources.dll
+C:\Users\mrioseco\HydraPlot2\HydraPlot2\bin\x86\Debug\ES\ZedGraph.resources.dll
+C:\Users\mrioseco\HydraPlot2\HydraPlot2\bin\x86\Debug\fr\ZedGraph.resources.dll
+C:\Users\mrioseco\HydraPlot2\HydraPlot2\bin\x86\Debug\hu\ZedGraph.resources.dll
+C:\Users\mrioseco\HydraPlot2\HydraPlot2\bin\x86\Debug\it\ZedGraph.resources.dll
+C:\Users\mrioseco\HydraPlot2\HydraPlot2\bin\x86\Debug\ja\ZedGraph.resources.dll
+C:\Users\mrioseco\HydraPlot2\HydraPlot2\bin\x86\Debug\pt\ZedGraph.resources.dll
+C:\Users\mrioseco\HydraPlot2\HydraPlot2\bin\x86\Debug\ru\ZedGraph.resources.dll
+C:\Users\mrioseco\HydraPlot2\HydraPlot2\bin\x86\Debug\sk\ZedGraph.resources.dll
+C:\Users\mrioseco\HydraPlot2\HydraPlot2\bin\x86\Debug\sv\ZedGraph.resources.dll
+C:\Users\mrioseco\HydraPlot2\HydraPlot2\bin\x86\Debug\tr\ZedGraph.resources.dll
+C:\Users\mrioseco\HydraPlot2\HydraPlot2\bin\x86\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\mrioseco\HydraPlot2\HydraPlot2\bin\x86\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\mrioseco\HydraPlot2\HydraPlot2\obj\x86\Debug\HydraPlot 2.csproj.CoreCompileInputs.cache
+C:\Users\mrioseco\HydraPlot2\HydraPlot2\obj\x86\Debug\es\HydraPlot 2.resources.dll
+C:\Users\mrioseco\HydraPlot2\HydraPlot2\obj\x86\Debug\HydraPlot 2.exe.manifest
+C:\Users\mrioseco\HydraPlot2\HydraPlot2\obj\x86\Debug\HydraPlot 2.application
+C:\Users\mrioseco\HydraPlot2\HydraPlot2\obj\x86\Debug\HydraPlot 2.csproj.CopyComplete
+C:\Users\mrioseco\HydraPlot2\HydraPlot2\obj\x86\Debug\HydraPlot 2.exe
+C:\Users\mrioseco\HydraPlot2\HydraPlot2\obj\x86\Debug\HydraPlot 2.pdb
+C:\Users\mrioseco\HydraPlot2\HydraPlot2\bin\x86\Debug\HydraPlot 2.exe.config
+C:\Users\mrioseco\HydraPlot2\HydraPlot2\bin\x86\Debug\HydraPlot 2.exe.manifest
+C:\Users\mrioseco\HydraPlot2\HydraPlot2\bin\x86\Debug\HydraPlot 2.application
+C:\Users\mrioseco\HydraPlot2\HydraPlot2\bin\x86\Debug\HydraPlot 2.exe
+C:\Users\mrioseco\HydraPlot2\HydraPlot2\bin\x86\Debug\HydraPlot 2.pdb
+C:\Users\mrioseco\HydraPlot2\HydraPlot2\bin\x86\Debug\es\HydraPlot 2.resources.dll
+C:\Users\maxri\OneDrive\Desktop\HydraPlot2\HydraPlot2\bin\x86\Debug\config\TextFile1.txt
+C:\Users\maxri\OneDrive\Desktop\HydraPlot2\HydraPlot2\bin\x86\Debug\databases\DOT 199208.mdb
+C:\Users\maxri\OneDrive\Desktop\HydraPlot2\HydraPlot2\bin\x86\Debug\databases\Stevens DOT Loggerhe.mdb
+C:\Users\maxri\OneDrive\Desktop\HydraPlot2\HydraPlot2\bin\x86\Debug\databases\template.mdb
+C:\Users\maxri\OneDrive\Desktop\HydraPlot2\HydraPlot2\bin\x86\Debug\databases\test.mdb
+C:\Users\maxri\OneDrive\Desktop\HydraPlot2\HydraPlot2\bin\x86\Debug\HydraPlot 2.exe.config
+C:\Users\maxri\OneDrive\Desktop\HydraPlot2\HydraPlot2\bin\x86\Debug\HydraPlot 2.exe.manifest
+C:\Users\maxri\OneDrive\Desktop\HydraPlot2\HydraPlot2\bin\x86\Debug\HydraPlot 2.application
+C:\Users\maxri\OneDrive\Desktop\HydraPlot2\HydraPlot2\bin\x86\Debug\HydraPlot 2.exe
+C:\Users\maxri\OneDrive\Desktop\HydraPlot2\HydraPlot2\bin\x86\Debug\HydraPlot 2.pdb
+C:\Users\maxri\OneDrive\Desktop\HydraPlot2\HydraPlot2\bin\x86\Debug\es\HydraPlot 2.resources.dll
+C:\Users\maxri\OneDrive\Desktop\HydraPlot2\HydraPlot2\bin\x86\Debug\CodersLab.Windows.Controls.TreeView.dll
+C:\Users\maxri\OneDrive\Desktop\HydraPlot2\HydraPlot2\bin\x86\Debug\ZedGraph.dll
+C:\Users\maxri\OneDrive\Desktop\HydraPlot2\HydraPlot2\bin\x86\Debug\CodersLab.Windows.Controls.TreeView.pdb
+C:\Users\maxri\OneDrive\Desktop\HydraPlot2\HydraPlot2\bin\x86\Debug\CodersLab.Windows.Controls.TreeView.dll.config
+C:\Users\maxri\OneDrive\Desktop\HydraPlot2\HydraPlot2\bin\x86\Debug\ZedGraph.pdb
+C:\Users\maxri\OneDrive\Desktop\HydraPlot2\HydraPlot2\bin\x86\Debug\ZedGraph.dll.config
+C:\Users\maxri\OneDrive\Desktop\HydraPlot2\HydraPlot2\bin\x86\Debug\de\ZedGraph.resources.dll
+C:\Users\maxri\OneDrive\Desktop\HydraPlot2\HydraPlot2\bin\x86\Debug\ES\ZedGraph.resources.dll
+C:\Users\maxri\OneDrive\Desktop\HydraPlot2\HydraPlot2\bin\x86\Debug\fr\ZedGraph.resources.dll
+C:\Users\maxri\OneDrive\Desktop\HydraPlot2\HydraPlot2\bin\x86\Debug\hu\ZedGraph.resources.dll
+C:\Users\maxri\OneDrive\Desktop\HydraPlot2\HydraPlot2\bin\x86\Debug\it\ZedGraph.resources.dll
+C:\Users\maxri\OneDrive\Desktop\HydraPlot2\HydraPlot2\bin\x86\Debug\ja\ZedGraph.resources.dll
+C:\Users\maxri\OneDrive\Desktop\HydraPlot2\HydraPlot2\bin\x86\Debug\pt\ZedGraph.resources.dll
+C:\Users\maxri\OneDrive\Desktop\HydraPlot2\HydraPlot2\bin\x86\Debug\ru\ZedGraph.resources.dll
+C:\Users\maxri\OneDrive\Desktop\HydraPlot2\HydraPlot2\bin\x86\Debug\sk\ZedGraph.resources.dll
+C:\Users\maxri\OneDrive\Desktop\HydraPlot2\HydraPlot2\bin\x86\Debug\sv\ZedGraph.resources.dll
+C:\Users\maxri\OneDrive\Desktop\HydraPlot2\HydraPlot2\bin\x86\Debug\tr\ZedGraph.resources.dll
+C:\Users\maxri\OneDrive\Desktop\HydraPlot2\HydraPlot2\bin\x86\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\maxri\OneDrive\Desktop\HydraPlot2\HydraPlot2\bin\x86\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\maxri\OneDrive\Desktop\HydraPlot2\HydraPlot2\obj\x86\Debug\HydraPlot 2.csproj.AssemblyReference.cache
+C:\Users\maxri\OneDrive\Desktop\HydraPlot2\HydraPlot2\obj\x86\Debug\HydraPlot2.About.resources
+C:\Users\maxri\OneDrive\Desktop\HydraPlot2\HydraPlot2\obj\x86\Debug\HydraPlot2.DbSelector.resources
+C:\Users\maxri\OneDrive\Desktop\HydraPlot2\HydraPlot2\obj\x86\Debug\HydraPlot2.Form1.resources
+C:\Users\maxri\OneDrive\Desktop\HydraPlot2\HydraPlot2\obj\x86\Debug\HydraPlot2.Form2.resources
+C:\Users\maxri\OneDrive\Desktop\HydraPlot2\HydraPlot2\obj\x86\Debug\HydraPlot2.GraphWorkspace.resources
+C:\Users\maxri\OneDrive\Desktop\HydraPlot2\HydraPlot2\obj\x86\Debug\HydraPlot2.ImporterMonitor.resources
+C:\Users\maxri\OneDrive\Desktop\HydraPlot2\HydraPlot2\obj\x86\Debug\HydraPlot2.ProfileEditor.resources
+C:\Users\maxri\OneDrive\Desktop\HydraPlot2\HydraPlot2\obj\x86\Debug\HydraPlot2.Properties.Resources.resources
+C:\Users\maxri\OneDrive\Desktop\HydraPlot2\HydraPlot2\obj\x86\Debug\HydraPlot2.SensorSelector.resources
+C:\Users\maxri\OneDrive\Desktop\HydraPlot2\HydraPlot2\obj\x86\Debug\HydraPlot2.About.es.resources
+C:\Users\maxri\OneDrive\Desktop\HydraPlot2\HydraPlot2\obj\x86\Debug\HydraPlot2.Form1.es.resources
+C:\Users\maxri\OneDrive\Desktop\HydraPlot2\HydraPlot2\obj\x86\Debug\HydraPlot 2.csproj.GenerateResource.cache
+C:\Users\maxri\OneDrive\Desktop\HydraPlot2\HydraPlot2\obj\x86\Debug\HydraPlot 2.csproj.CoreCompileInputs.cache
+C:\Users\maxri\OneDrive\Desktop\HydraPlot2\HydraPlot2\obj\x86\Debug\es\HydraPlot 2.resources.dll
+C:\Users\maxri\OneDrive\Desktop\HydraPlot2\HydraPlot2\obj\x86\Debug\HydraPlot 2.exe.manifest
+C:\Users\maxri\OneDrive\Desktop\HydraPlot2\HydraPlot2\obj\x86\Debug\HydraPlot 2.application
+C:\Users\maxri\OneDrive\Desktop\HydraPlot2\HydraPlot2\obj\x86\Debug\HydraPlot 2.csproj.CopyComplete
+C:\Users\maxri\OneDrive\Desktop\HydraPlot2\HydraPlot2\obj\x86\Debug\HydraPlot 2.exe
+C:\Users\maxri\OneDrive\Desktop\HydraPlot2\HydraPlot2\obj\x86\Debug\HydraPlot 2.pdb

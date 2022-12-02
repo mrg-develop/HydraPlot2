@@ -1,7 +1,12 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual C# Express 2008
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZedGraph", "dep\ZedGraph 5.1 (.net 2)\source\ZedGraph.csproj", "{2541686B-1673-43BF-AF89-3163945DB009}"
+	ProjectSection(ProjectDependencies) = postProject
+		{A02C1D54-2F34-4B35-992D-F8B6A1664884} = {A02C1D54-2F34-4B35-992D-F8B6A1664884}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HydraPlot 2", "HydraPlot 2.csproj", "{756EB9F1-E5D4-4FBC-B4E7-F4257D478DC0}"
 EndProject
@@ -42,5 +47,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95DA8085-EAD8-47D4-8FB3-C690E4EE5C34}
 	EndGlobalSection
 EndGlobal

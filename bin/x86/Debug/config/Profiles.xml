@@ -1,0 +1,2 @@
+<!DOCTYPE Profiles [ <!ELEMENT Profiles ANY> <!ELEMENT Profile ANY> <!ATTLIST Profile id ID #REQUIRED> ]>
+<Profiles></Profiles>
